@@ -1,0 +1,121 @@
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\appsettings.json
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.exe
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.deps.json
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.runtimeconfig.json
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.runtimeconfig.dev.json
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.pdb
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.csproj.AssemblyReference.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.AssemblyInfoInputs.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.AssemblyInfo.cs
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.csproj.CoreCompileInputs.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\scopedcss\bundle\EmployeeFormApi.styles.css
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\EmployeeFormApi.StaticWebAssets.Manifest.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.RazorTargetAssemblyInfo.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.csproj.CopyComplete
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\refint\EmployeeFormApi.dll
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.pdb
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.genruntimeconfig.cache
+C:\Users\junaid\source\repos\EmployeeFormApi\obj\Debug\net5.0\ref\EmployeeFormApi.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\appsettings.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.exe
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.deps.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.runtimeconfig.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.runtimeconfig.dev.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\EmployeeFormApi.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.csproj.AssemblyReference.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.AssemblyInfoInputs.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.AssemblyInfo.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.RazorTargetAssemblyInfo.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\scopedcss\bundle\EmployeeFormApi.styles.css
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\EmployeeFormApi.StaticWebAssets.Manifest.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\EmployeeFormApi.StaticWebAssets.Pack.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\msbuild.EmployeeFormApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\msbuild.build.EmployeeFormApi.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeFormApi.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EmployeeFormApi.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.csproj.CopyComplete
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\refint\EmployeeFormApi.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\EmployeeFormApi.genruntimeconfig.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeFormApi\obj\Debug\net5.0\ref\EmployeeFormApi.dll
